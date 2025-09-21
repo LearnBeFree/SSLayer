@@ -1,5 +1,5 @@
-# Symbols Sense Layer
-- a symbols layer that makes sense.
+# Simple Symbol Layer
+- a symbol layer that makes sense.
 
 ![SSLayer image](pictures/main.png)
 
