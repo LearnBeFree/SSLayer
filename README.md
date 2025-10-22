@@ -42,5 +42,6 @@
 
 ## TODO:
 
-- Add installation instructions and files (both Linux and Windows);
+- Add installation instructions and files (both Linux, Windows and Android);
 - Add more tool-specific justifications (especially for various programming languages).
+- Think about swapping / and \ (so that / is at its default colemak/qwerty position, no confusion across layers)
